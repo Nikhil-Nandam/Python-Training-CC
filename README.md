@@ -136,7 +136,7 @@ Volunteers of Coding Club, namely Nikhil Nandam and Manas Rao are the instructor
         - Python Dictionary Functions and methods
         - Dictionary comprehension
 	
-### 5. Files & Exceptions (1 Week)
+## 5. Files & Exceptions (1 Week)
 - Files
     - Introduction to files
     - Opening a file
